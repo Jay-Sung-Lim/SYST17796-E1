@@ -75,12 +75,14 @@ public class CardTrick {
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
+        System.out.println("Nice to meet you! :)");
         System.out.println("My name is Jaesung, but you can call me Jay");
         System.out.println();
 
         System.out.println("My hobbies:");
         System.out.println("-- Playing a tennis");
         System.out.println("-- Watching Netflix&Youtube");
+        System.out.println("-- Working out at gym");
         System.out.println();
     }
 }
